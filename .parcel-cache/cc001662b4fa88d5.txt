@@ -16,7 +16,7 @@
 85C:\Users\melan\Desktop\Forkify-V2\node_modules\iconv-lite\encodings\tables\cp949.json130976329310000000 0
 101C:\Users\melan\Desktop\Forkify-V2\node_modules\sharp\vendor\8.10.6\include\libxml2\libxml\xmlmodule.h132612604640000000 0
 126C:\Users\melan\Desktop\Forkify-V2\node_modules\postcss-modules-local-by-default\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
-38C:\Users\melan\Desktop\Forkify-V2\dist132793140612164866 1
+38C:\Users\melan\Desktop\Forkify-V2\dist132796720421013915 1
 81C:\Users\melan\Desktop\Forkify-V2\node_modules\tweetnacl\PULL_REQUEST_TEMPLATE.md131260969540000000 0
 65C:\Users\melan\Desktop\Forkify-V2\node_modules\delayed-stream\lib132774198384617197 1
 67C:\Users\melan\Desktop\Forkify-V2\node_modules\posthtml-render\dist132774198362725736 1
@@ -209,7 +209,7 @@
 104C:\Users\melan\Desktop\Forkify-V2\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js121436361000000000 0
 102C:\Users\melan\Desktop\Forkify-V2\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gcredentials.h132612604640000000 0
 83C:\Users\melan\Desktop\Forkify-V2\node_modules\core-js\modules\es.date.to-string.js121436361000000000 0
-51C:\Users\melan\Desktop\Forkify-V2\src\js\helpers.js132790551789377292 0
+51C:\Users\melan\Desktop\Forkify-V2\src\js\helpers.js132796521620119678 0
 63C:\Users\melan\Desktop\Forkify-V2\node_modules\lodash\forOwn.js121436361000000000 0
 91C:\Users\melan\Desktop\Forkify-V2\node_modules\command-exists\test\non-executable-script.js121436361000000000 0
 100C:\Users\melan\Desktop\Forkify-V2\node_modules\jsdom\lib\jsdom\living\generated\NavigatorLanguage.js121436361000000000 0
@@ -226,7 +226,7 @@
 97C:\Users\melan\Desktop\Forkify-V2\node_modules\source-map-support\node_modules\source-map\LICENSE131369414900000000 0
 52C:\Users\melan\Desktop\Forkify-V2\src\sass\main.scss132562249780000000 0
 101C:\Users\melan\Desktop\Forkify-V2\node_modules\jsdom\lib\jsdom\living\attributes\NamedNodeMap-impl.js121436361000000000 0
-50C:\Users\melan\Desktop\Forkify-V2\src\js\config.js132790520958692158 0
+50C:\Users\melan\Desktop\Forkify-V2\src\js\config.js132793165154084503 0
 53C:\Users\melan\Desktop\Forkify-V2\src\sass\_base.scss132562249780000000 0
 67C:\Users\melan\Desktop\Forkify-V2\node_modules\prelude-ls\README.md130566013780000000 0
 64C:\Users\melan\Desktop\Forkify-V2\node_modules\lodash\fp\prop.js121436361000000000 0
@@ -331,7 +331,7 @@
 55C:\Users\melan\Desktop\Forkify-V2\src\sass\_upload.scss132562249780000000 0
 75C:\Users\melan\Desktop\Forkify-V2\node_modules\json-stringify-safe\Makefile130764732900000000 0
 49C:\Users\melan\Desktop\Forkify-V2\node_modules\qs132774198463220613 1
-54C:\Users\melan\Desktop\Forkify-V2\src\js\controller.js132793140608380314 0
+54C:\Users\melan\Desktop\Forkify-V2\src\js\controller.js132796684183433314 0
 74C:\Users\melan\Desktop\Forkify-V2\node_modules\relateurl\lib\parse\port.js130631686570000000 0
 68C:\Users\melan\Desktop\Forkify-V2\node_modules\is-negative-zero\test132774198377895182 1
 75C:\Users\melan\Desktop\Forkify-V2\node_modules\core-js\internals\classof.js121436361000000000 0
@@ -341,9 +341,9 @@
 103C:\Users\melan\Desktop\Forkify-V2\node_modules\sharp\vendor\8.10.6\include\freetype2\freetype\ftcache.h132612604640000000 0
 72C:\Users\melan\Desktop\Forkify-V2\node_modules\core-js\features\instance132775039907293101 1
 104C:\Users\melan\Desktop\Forkify-V2\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js121436361000000000 0
-49C:\Users\melan\Desktop\Forkify-V2\src\js\model.js132790540538612451 0
+49C:\Users\melan\Desktop\Forkify-V2\src\js\model.js132796721511960153 0
 56C:\Users\melan\Desktop\Forkify-V2\node_modules\uncss\bin132774198340973932 1
-60C:\Users\melan\Desktop\Forkify-V2\src\js\views\recipeView.js132775892778786251 0
+60C:\Users\melan\Desktop\Forkify-V2\src\js\views\recipeView.js132796687287219631 0
 69C:\Users\melan\Desktop\Forkify-V2\node_modules\finalhandler\README.md121436361000000000 0
 57C:\Users\melan\Desktop\Forkify-V2\node_modules\har-schema132774198470620816 1
 65C:\Users\melan\Desktop\Forkify-V2\node_modules\elliptic\README.md121436361000000000 0
@@ -3101,7 +3101,7 @@
 98C:\Users\melan\Desktop\Forkify-V2\node_modules\jsdom\lib\jsdom\living\generated\HTMLBaseElement.js121436361000000000 0
 88C:\Users\melan\Desktop\Forkify-V2\node_modules\path-browserify\test\test-path-dirname.js121436361000000000 0
 86C:\Users\melan\Desktop\Forkify-V2\node_modules\@parcel\packager-css\lib\CSSPackager.js121436361000000000 0
-56C:\Users\melan\Desktop\Forkify-V2\dist\index.436439df.js132793140612008773 0
+56C:\Users\melan\Desktop\Forkify-V2\dist\index.436439df.js132796720420884600 0
 83C:\Users\melan\Desktop\Forkify-V2\node_modules\highlight.js\lib\languages\zephir.js121436361000000000 0
 63C:\Users\melan\Desktop\Forkify-V2\node_modules\xmlchars\xml\1.1132774198345142781 1
 70C:\Users\melan\Desktop\Forkify-V2\node_modules\node-gyp-build\index.js121436361000000000 0
@@ -4839,7 +4839,7 @@
 75C:\Users\melan\Desktop\Forkify-V2\node_modules\svgo\plugins\minifyStyles.js121436361000000000 0
 103C:\Users\melan\Desktop\Forkify-V2\node_modules\sharp\vendor\8.10.6\include\pango-1.0\pango\pango-item.h132612604640000000 0
 68C:\Users\melan\Desktop\Forkify-V2\node_modules\signal-exit\README.md121436361000000000 0
-60C:\Users\melan\Desktop\Forkify-V2\dist\index.436439df.js.map132793140612144974 0
+60C:\Users\melan\Desktop\Forkify-V2\dist\index.436439df.js.map132796720421004131 0
 107C:\Users\melan\Desktop\Forkify-V2\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gdbusauthobserver.h132612604640000000 0
 80C:\Users\melan\Desktop\Forkify-V2\node_modules\es-abstract\2017\IsConstructor.js121436361000000000 0
 73C:\Users\melan\Desktop\Forkify-V2\node_modules\svgo\plugins\mergePaths.js121436361000000000 0
