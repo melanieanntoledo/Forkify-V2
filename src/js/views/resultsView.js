@@ -9,12 +9,14 @@ class ResultsView extends View {
     _generateMarkup() {
         console.log(this.data);
         return this._data.map(this._generateMarkupPreview).join('');
-    }
+    };
 
     _generateMarkupPreview(result) {
+        const id = window.location.hash.slice(1);
+
         return `
             <li class="preview">
-                <a class="preview__link" href="#${result.id}">
+                <a class="preview__link ${result.id === id ? 'preview__link--active' : ''}" href="#${result.id}">
                 <figure class="preview__fig">
                     <img crossorigin src="${result.image}" alt="${result.title}" />
                 </figure>
@@ -25,7 +27,7 @@ class ResultsView extends View {
                 </a>
             </li>
         `;
-    }
+    };
 }
 
 export default new ResultsView();
